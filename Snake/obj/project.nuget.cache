@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzQXKEqvG61K00Zrdtk/Dph3PI8pUQMPiKVIRCtHw1lJvOmdfyYD7PjLePyH//1bXoZxmNX0Pk7NvE1Ith6NEw==",
+  "success": true,
+  "projectFilePath": "/Users/sergejterehov/Downloads/Snake_Final 2/Snake/Snake.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergejterehov/.nuget/packages/csfml/2.5.0/csfml.2.5.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/sfml.audio/2.5.0/sfml.audio.2.5.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/sfml.graphics/2.5.0/sfml.graphics.2.5.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/sfml.net/2.5.0/sfml.net.2.5.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/sfml.system/2.5.0/sfml.system.2.5.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/sfml.window/2.5.0/sfml.window.2.5.0.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/sergejterehov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
